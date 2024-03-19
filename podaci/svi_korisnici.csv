@@ -1,0 +1,11 @@
+MENADZER|1|Nikolaj|Nikolic|Musko|0631312021|Bate Brkica 5|nikola|nikola123|FAKULTET|10|0
+RECEPCIONER|2|Pera|Perici|Musko|2651681|Bate Brkica 4|pera|pera123|FAKULTET|10|0
+KOZMETICAR|3|Sima|Simic|Musko|26851684|Bate Brkica 73|simasS|sima123|DOKTOR|11|5000|2,1,
+KOZMETICAR|4|Zika|Zikic|Musko|+65684654|Bate Brkica 3|zika|zika1234|SREDNJA_SKOLA|10|5000|3,2,1,
+KOZMETICAR|5|Jovana|Jovanovic|Zensko|65465468|Bate Brkica 1|joja|joja123|DOKTOR|11|0|2,1,
+KLIJENT|6|Milica|Milic|Zensko|56454654|Viteska 32|mica|mica123|false|0
+KLIJENT|7|Mika|Mikic|Musko|52625684|Viteska 33|mika|mika123|true|5000
+KLIJENT|8|Lenka|Gutovic|Zensko|321654|Viteska44|lenkaG|1312|true|7150
+KLIJENT|10|marko|markovic|Musko|213123213|aaa 22|mare|m|true|1500
+MENADZER|11|Uros|Radukic|Musko|123123|Andje Rankovic 9|uros|123|SREDNJA_SKOLA|1|0
+KOZMETICAR|13|d|d|Musko|12313|dd1|d|d|OSNOVNA_SKOLA|10|0|1,

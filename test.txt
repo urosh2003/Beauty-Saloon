@@ -1,0 +1,2 @@
+KLIJENT|1|Marko|Markovic|musko|0320320|BlaBla 22|mare|mare123|false|0
+KLIJENT|2|Zika|Zikic|musko|0320320|BlaBla 22|zika|zika123|false|0
